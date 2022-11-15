@@ -19,14 +19,15 @@ Listen:
 - Element 2  
 - Element 3  
 
-Nummerierte Liste (Start bei 1)  
+
+Nummerierte Liste (Start bei 1):  
 1. Element 1  
 1. Element 2  
 1. Element 3  
 
-Nummerierte Liste (Start bei 10)  
+Nummerierte Liste (Start bei 10):  
 10. Element 10  
-1. Element 11  
-1. Element 12  
+11. Element 11  
+12. Element 12  
 
 [link](https://www.google.com)  
